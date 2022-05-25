@@ -6,7 +6,7 @@
 
 **Short Bio:**
 
-My name is Jingze Wang (王景泽 in Chinese). I am a first-year PhD student at UCL School of Management. Before joining UCL, I earned my H.B.Sc. from University of Toronto and M.Phil. from University of Cambridge.
+My name is Jingze Wang (王景泽 in Chinese). I am a PhD student at UCL School of Management. Before joining UCL, I earned my H.B.Sc. from University of Toronto and M.Phil. from University of Cambridge.
 
 ---
 
