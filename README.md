@@ -1,6 +1,6 @@
 ---
 
-Hi there, I'm Jingze Wang (王景泽 in Chinese)! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hi there, I'm Jingze Wang (王景泽 in Chinese)!
 
 ---
 
